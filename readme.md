@@ -1,25 +1,33 @@
-![capoo flowers](./public/puppy-eyes.gif)
+# Will you go out with me?
 
-## will you go out with me?
+## Overview
 
-# run yourself 
-requires a fairly new v of **node** and **git**!
+**Will you go out with me** is a simple and playful project that adds a twist to the typical decision-making process. This project allows users to invite their friends to go out through a web interface. The catch? Saying "NO" becomes a bit challenging and amusing!
 
-fork and **pull**.
-```sh
--> git add origin https://github.com/purpleblueslime/willyougooutwithme.git 
--> git pull origin
-```
+## Technologies Used
 
-install **deps/dev deps** from [**`package.json`**](./package.json)
+- **HTML:** Structuring the web page.
+- **CSS:** Styling the elements and creating hover effects.
+- **JavaScript:** Implementing the interactive behavior and managing button clicks.
 
-## `dev`
-```sh
--> next dev
-```
-view at port **3k**.
+## How to Use
 
-## `build`
-```sh
--> next build
-```
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/hallowshaw/Will-you-go-out-with-me.git
+   ```
+2. Open the index.html file in your web browser.
+
+3. Interact with the buttons and experience the playful decision-making process!
+
+## Demo
+
+https://hallowshaw.github.io/Will-you-go-out-with-me/
+
+## Contributing 
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests to enhance the project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
